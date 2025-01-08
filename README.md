@@ -1,5 +1,5 @@
-# 2.1.0 Lab: Product Landing Page
-- [2.1.0 Lab: Product Landing Page](#210-lab-product-landing-page)
+# Product Landing Page
+- [Product Landing Page](#product-landing-page)
     - [Objective](#objective)
   - [Mockups or wire frames?](#mockups-or-wire-frames)
     - [Requirements](#requirements)
